@@ -1,1 +1,119 @@
-{"address":"2800 Northeast 16th Avenue, Wilton Manors, FL, USA","geoCode":{"lat":26.1625044,"lng":-80.1262402},"mapImageUrl":"https://storage.googleapis.com/hostrapp_public/BlmK2BhX1kM1icOUMWzXYR8wQUO2/villa/map.png","googleMapsUrl":"","nearbyCategories":[{"category":"Dining","place_type":"restaurant","description":"Wilton Manors offers a diverse culinary scene within walking distance. Enjoy upscale French cuisine at La Crepe Bistro (0.4 miles), savor authentic Italian flavors at Louie Bossi Ristorante (0.6 miles), or indulge in modern American fare at The Blue Moon (0.7 miles).","notable_places":["La Crepe Bistro","Louie Bossi Ristorante","The Blue Moon"],"image_prompt":"A photorealistic image of a charming outdoor patio at a restaurant in Wilton Manors, Florida, with fairy lights and lush greenery.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-mM4P98I7mgukdQjy7vvn6CS1.png?st=2025-02-02T18%3A26%3A35Z&se=2025-02-02T20%3A26%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A42%3A45Z&ske=2025-02-03T00%3A42%3A45Z&sks=b&skv=2024-08-04&sig=bEYHV/fTy3zM2AYOxViwoJmISXkf3eZ6NPaeJzMx6Wg%3D"},{"category":"Coffee","place_type":"cafe","description":"Start your day with a caffeine fix from local cafes like The Grind (0.3 miles), offering specialty coffee and pastries, or Crema Coffee & Tea (0.5 miles), known for its cozy atmosphere and unique blends.","notable_places":["The Grind","Crema Coffee & Tea"],"image_prompt":"A photorealistic image of a modern cafe in Wilton Manors, Florida, with exposed brick walls, comfortable seating, and a variety of coffee drinks on display.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-TOJQld49ZcUwttrLtPG6nCfZ.png?st=2025-02-02T18%3A26%3A47Z&se=2025-02-02T20%3A26%3A47Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A43%3A14Z&ske=2025-02-03T00%3A43%3A14Z&sks=b&skv=2024-08-04&sig=GAUF5PbNtruDgT5etgTSkbPPB%2Bbd2h9QsjaDV/zzslQ%3D"},{"category":"Attractions","place_type":"tourist_attraction","description":"Immerse yourself in the vibrant culture of Wilton Manors. Explore the Stonewall National Museum & Archives (0.8 miles), dedicated to LGBTQ+ history, or visit the scenic Colohatchee Park (0.9 miles), perfect for picnics and nature walks.","notable_places":["Stonewall National Museum & Archives","Colohatchee Park"],"image_prompt":"A photorealistic image of the Stonewall National Museum & Archives in Wilton Manors, Florida, with a rainbow flag prominently displayed.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-h9b3bKpQl7RXi0tJOUq8Hwoo.png?st=2025-02-02T18%3A27%3A05Z&se=2025-02-02T20%3A27%3A05Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A34%3A35Z&ske=2025-02-03T00%3A34%3A35Z&sks=b&skv=2024-08-04&sig=fGWOsgn9tFwOAnO/weVHPYoQWvk4jdaf90OZGgbGFsY%3D"},{"category":"Activities","place_type":"amusement_park","description":"Embark on thrilling adventures at Xtreme Action Park (1.1 miles), featuring go-karts, mini-golf, and laser tag. For a unique experience, visit the Escape Room Fort Lauderdale (1.2 miles) and test your problem-solving skills.","notable_places":["Xtreme Action Park","Escape Room Fort Lauderdale"],"image_prompt":"A photorealistic image of a group of people having fun at Xtreme Action Park in Wilton Manors, Florida, riding go-karts and playing mini-golf.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-UUfxW5YsMcTk8zJiPMS4tDdP.png?st=2025-02-02T18%3A27%3A19Z&se=2025-02-02T20%3A27%3A19Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A30%3A27Z&ske=2025-02-03T00%3A30%3A27Z&sks=b&skv=2024-08-04&sig=QPgutjqTO68yzW8mhi46xnRI3gNEmDunCtterRuv5i0%3D"},{"category":"Recreational","place_type":"park","description":"Relax and rejuvenate at Hugh Taylor Birch State Park (1.3 miles), offering stunning natural landscapes, hiking trails, and kayaking opportunities. For a more urban experience, visit Wilton Manors' Village Green (0.5 miles), ideal for leisurely strolls and people-watching.","notable_places":["Hugh Taylor Birch State Park","Wilton Manors' Village Green"],"image_prompt":"A photorealistic image of a couple enjoying a picnic at Hugh Taylor Birch State Park in Wilton Manors, Florida, with a view of the Intracoastal Waterway.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-PzVi25nJWGJcsXXRVp9s91wD.png?st=2025-02-02T18%3A27%3A33Z&se=2025-02-02T20%3A27%3A33Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T01%3A02%3A47Z&ske=2025-02-03T01%3A02%3A47Z&sks=b&skv=2024-08-04&sig=HHMPyAhgmbL/c4YfvloVn9pOOe8kHaxodstiWtdo7EY%3D"},{"category":"Shopping","place_type":"shopping_mall","description":"Treat yourself to a shopping spree at The Galleria at Fort Lauderdale (1.5 miles), a renowned mall with high-end boutiques and department stores. For unique finds and local crafts, explore the Wilton Manors Antique Market (0.7 miles).","notable_places":["The Galleria at Fort Lauderdale","Wilton Manors Antique Market"],"image_prompt":"A photorealistic image of the interior of The Galleria at Fort Lauderdale, Florida, showcasing luxury brands and a stylish atmosphere.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-8yCN5E2jmvVUjIQWk2DOXn6z.png?st=2025-02-02T18%3A27%3A44Z&se=2025-02-02T20%3A27%3A44Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A31%3A06Z&ske=2025-02-03T00%3A31%3A06Z&sks=b&skv=2024-08-04&sig=dhAKeQm8m1iYIeVLOhpSOf%2BiERkokPGThzeE%2BjsEc98%3D"},{"category":"Convenience","place_type":"grocery_or_supermarket","description":"Stock up on essentials and groceries at Publix Super Market (0.4 miles), conveniently located within walking distance. For a wider selection, visit Whole Foods Market (1.0 miles).","notable_places":["Publix Super Market","Whole Foods Market"],"image_prompt":"A photorealistic image of a well-stocked grocery store in Wilton Manors, Florida, with fresh produce, a variety of packaged goods, and friendly staff.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-e23q54e5awvaWgzct2Gjk6xk.png?st=2025-02-02T18%3A27%3A57Z&se=2025-02-02T20%3A27%3A57Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A42%3A08Z&ske=2025-02-03T00%3A42%3A08Z&sks=b&skv=2024-08-04&sig=BxHUSvf%2Balv43y2PVGZaKTktqeyveY/uaeylUMMaOfM%3D"},{"category":"Transportation Hubs","place_type":"airport","description":"Fort Lauderdale-Hollywood International Airport (FLL) is situated approximately 8 miles away, offering convenient domestic and international flights. For train services, the nearest station is Fort Lauderdale Amtrak Station (11 miles away).","notable_places":["Fort Lauderdale-Hollywood International Airport (FLL)","Fort Lauderdale Amtrak Station"],"image_prompt":"A photorealistic image of the Fort Lauderdale-Hollywood International Airport (FLL) terminal, with airplanes taking off and landing.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-1wQyiRMfKUokZgvuloOE6ulR.png?st=2025-02-02T18%3A28%3A12Z&se=2025-02-02T20%3A28%3A12Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A26%3A48Z&ske=2025-02-03T00%3A26%3A48Z&sks=b&skv=2024-08-04&sig=34t3/jPW8jdjuU0LifrfMTRvv2vC6gcSBYcof2Sg9pc%3D"},{"category":"Other Services","place_type":"spa","description":"Indulge in pampering treatments at The Spa at The Westin Fort Lauderdale (1.4 miles), offering a range of massages, facials, and body treatments. For a more holistic approach, visit The Yoga Studio of Wilton Manors (0.6 miles), providing yoga classes and meditation sessions.","notable_places":["The Spa at The Westin Fort Lauderdale","The Yoga Studio of Wilton Manors"],"image_prompt":"A photorealistic image of a luxurious spa treatment room at The Spa at The Westin Fort Lauderdale, Florida, with candles, soft lighting, and a serene atmosphere.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-RL7aE2eEJuwXgc3d04ALH1fu.png?st=2025-02-02T18%3A28%3A26Z&se=2025-02-02T20%3A28%3A26Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A41%3A45Z&ske=2025-02-03T00%3A41%3A45Z&sks=b&skv=2024-08-04&sig=jXKbRvgbEubhZWfp72NQR%2BWVoImo8RFkOkKzdcfWqUM%3D"}]}
+{
+  "address": "4001 Palm Blvd, Isle of Palms, SC 29451, USA",
+  "geoCode": {
+    "lat": 32.7979274,
+    "lng": -79.7592713
+  },
+  "mapImageUrl": "https://storage.googleapis.com/hostrapp_public/Uv7UPCFCkrOfx8fFz9qTIIJ1ojl1/isle-of-palms-luxury-stay/map.png",
+  "googleMapsUrl": "",
+  "nearbyCategories": [
+    {
+      "category": "Delicious Seafood & Waterfront Dining Options",
+      "place_type": "restaurant",
+      "description": "Enjoy fresh seafood and stunning views at nearby restaurants. Many options within a 5-10 minute drive, such as 'Poe's Tavern' and 'The Boathouse at Breach Inlet'.",
+      "notable_places": [
+        "Poe's Tavern",
+        "The Boathouse at Breach Inlet",
+        "Acme Lowcountry Kitchen"
+      ],
+      "image_prompt": "Photorealistic image of a sunset view over Breach Inlet, with outdoor seating at 'The Boathouse' visible, showcasing fresh seafood dishes on the table. Focus on warm lighting and inviting atmosphere.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-QDp96S39slQHwlmJloPpUmzW.png?st=2025-08-04T16%3A01%3A20Z&se=2025-08-04T18%3A01%3A20Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-04T06%3A20%3A16Z&ske=2025-08-05T06%3A20%3A16Z&sks=b&skv=2024-08-04&sig=f4k4/SByAUxadxv9gxKvBzOt6nDIWCER5PATWvIlxkc%3D"
+    },
+    {
+      "category": "Local Coffee Shops and Breakfast Spots",
+      "place_type": "cafe",
+      "description": "Start your day with coffee and pastries at local cafes. Within a short drive you can find places like 'Island Joe's Coffee' for a quick bite.",
+      "notable_places": [
+        "Island Joe's Coffee",
+        "Starbucks",
+        "Harris Teeter"
+      ],
+      "image_prompt": "Photorealistic image of the interior of 'Island Joe's Coffee', focusing on the barista making a latte and showcasing the cozy atmosphere with customers enjoying coffee and pastries.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-2tYoezMhQgMGUEXL8vlZUlXN.png?st=2025-08-04T16%3A01%3A36Z&se=2025-08-04T18%3A01%3A36Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-04T06%3A02%3A30Z&ske=2025-08-05T06%3A02%3A30Z&sks=b&skv=2024-08-04&sig=oysT7eIoZl08Vc/uxyQb14s1dW3feHQB%2BX/vJefFlXQ%3D"
+    },
+    {
+      "category": "Popular Isle of Palms Tourist Attractions",
+      "place_type": "tourist_attraction",
+      "description": "Explore Isle of Palms' beautiful beaches and historic sites. The beach is easily accessible, and 'Fort Sumter' is a short drive away.",
+      "notable_places": [
+        "Isle of Palms Beach",
+        "Fort Sumter National Monument",
+        "Sullivan's Island Lighthouse"
+      ],
+      "image_prompt": "Photorealistic image of a sunny day on Isle of Palms beach, with families enjoying the sand and surf. Include the iconic Isle of Palms fishing pier in the background.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-gh7uVmQff3VviM0gprkfn3DE.png?st=2025-08-04T16%3A01%3A54Z&se=2025-08-04T18%3A01%3A54Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-04T14%3A53%3A29Z&ske=2025-08-05T14%3A53%3A29Z&sks=b&skv=2024-08-04&sig=Oq37bP2CMWajf4soLc9joSCDHDxTB%2Bf0D4U%2BK0OVMZ4%3D"
+    },
+    {
+      "category": "Outdoor Recreational Activities and Parks",
+      "place_type": "park",
+      "description": "Enjoy outdoor activities like swimming, surfing, and biking. 'Isle of Palms County Park' offers various recreational facilities and is nearby.",
+      "notable_places": [
+        "Isle of Palms County Park",
+        "Front Beach",
+        "Sullivans Island Beach"
+      ],
+      "image_prompt": "Photorealistic image of people playing volleyball at Isle of Palms County Park. Focus on the active lifestyle and beautiful scenery with palm trees and blue skies.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-M53K13DqwTTzhP4svcnwvxDI.png?st=2025-08-04T16%3A02%3A09Z&se=2025-08-04T18%3A02%3A09Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-04T10%3A20%3A30Z&ske=2025-08-05T10%3A20%3A30Z&sks=b&skv=2024-08-04&sig=nEwUOz28hIcp3OFx8TnYQOQ2rB7nbK0IABVkISyE5mQ%3D"
+    },
+    {
+      "category": "Convenient Grocery and Shopping Options",
+      "place_type": "grocery_or_supermarket",
+      "description": "Easily stock up on groceries and essentials at nearby stores. 'Harris Teeter' is a short drive away for all your needs.",
+      "notable_places": [
+        "Harris Teeter",
+        "Island Provisions",
+        "Walmart"
+      ],
+      "image_prompt": "Photorealistic image of the fresh produce section in 'Harris Teeter' on Isle of Palms, showcasing the variety of fruits and vegetables available.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-VC8Lz4CbvZPgmqSE1ngNOFSC.png?st=2025-08-04T16%3A02%3A21Z&se=2025-08-04T18%3A02%3A21Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-04T05%3A54%3A13Z&ske=2025-08-05T05%3A54%3A13Z&sks=b&skv=2024-08-04&sig=bNOrtu8M5T9Bf7SMlvFRiA2FZP4IcaFrErKgUN8fCf0%3D"
+    },
+    {
+      "category": "Golf Courses and Country Clubs for Golfers",
+      "place_type": "golf_course",
+      "description": "Tee off at world-class golf courses in the area. 'Wild Dunes Resort' offers stunning courses with ocean views, just a short drive.",
+      "notable_places": [
+        "Links Course at Wild Dunes",
+        "Harbor Course at Wild Dunes",
+        "Snee Farm Country Club"
+      ],
+      "image_prompt": "Photorealistic image of a golfer teeing off on the 'Links Course at Wild Dunes', with the ocean and palm trees in the background. Focus on the beautiful landscape and sunny weather.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-R8opm14MLJDnDMXkiAxPOpYx.png?st=2025-08-04T16%3A02%3A36Z&se=2025-08-04T18%3A02%3A36Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-04T08%3A11%3A38Z&ske=2025-08-05T08%3A11%3A38Z&sks=b&skv=2024-08-04&sig=fpo5EDxjXhH4vXSqK695/DHqyhHJ%2BS/8uCN4rmswwWE%3D"
+    },
+    {
+      "category": "Essential Pharmacy and Healthcare Services",
+      "place_type": "pharmacy",
+      "description": "Access convenient healthcare services and pharmacies. 'Walgreens' provides essential medications and healthcare products within a reasonable drive.",
+      "notable_places": [
+        "Walgreens",
+        "CVS Pharmacy",
+        "East Cooper Medical Center"
+      ],
+      "image_prompt": "Photorealistic image of the exterior of 'Walgreens' in Isle of Palms, showcasing the pharmacy and its convenient location for vacationers needing healthcare products.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-P93jVxviThT52xABt607yS53.png?st=2025-08-04T16%3A02%3A49Z&se=2025-08-04T18%3A02%3A49Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-03T18%3A24%3A12Z&ske=2025-08-04T18%3A24%3A12Z&sks=b&skv=2024-08-04&sig=jNPZKwzzQhJ2vvQ0wIknCaIBKT4NqNivhS011OnSqtY%3D"
+    },
+    {
+      "category": "Unique Local Shopping Boutiques and Stores",
+      "place_type": "store",
+      "description": "Find souvenirs and unique items at local boutiques. Explore shops on 'Front Beach' for beachwear and gifts within walking distance.",
+      "notable_places": [
+        "Island Hardware",
+        "Sealand Trading Co",
+        "Salty Goat Mercantile"
+      ],
+      "image_prompt": "Photorealistic image of the storefront of 'Salty Goat Mercantile' in Isle of Palms, displaying beach-themed souvenirs and clothing. Focus on the colorful and inviting atmosphere.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-1cnrsdxUtHUqV7EjlRvxe4Ef.png?st=2025-08-04T16%3A03%3A00Z&se=2025-08-04T18%3A03%3A00Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-03T20%3A18%3A30Z&ske=2025-08-04T20%3A18%3A30Z&sks=b&skv=2024-08-04&sig=vOMlwghcMaz/9Fry1X4f18Gkj0F8xpOOhbonZi6JPEQ%3D"
+    },
+    {
+      "category": "Transportation Options: Airport & Car Rentals",
+      "place_type": "car_rental",
+      "description": "Access transportation options including car rentals and the airport. 'Charleston International Airport (CHS)' is a short drive away. Car rental companies are available nearby.",
+      "notable_places": [
+        "Charleston International Airport (CHS)",
+        "Enterprise Rent-A-Car",
+        "Hertz"
+      ],
+      "image_prompt": "Photorealistic image of the exterior of 'Charleston International Airport (CHS)' during a sunny day. Include cars arriving and departing, emphasizing ease of access for travelers.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-1OIamHUopeTE8iGGtsdXfEa9.png?st=2025-08-04T16%3A03%3A15Z&se=2025-08-04T18%3A03%3A15Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-04T15%3A39%3A08Z&ske=2025-08-05T15%3A39%3A08Z&sks=b&skv=2024-08-04&sig=xJT3zp%2BoNRni2MzDgFMGHFC4YQeT9mUNgOrIj3S0LAc%3D"
+    }
+  ]
+}
